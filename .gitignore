@@ -1,5 +1,6 @@
 # Terraform local state and backups
 **/.terraform/*
+.terraform.lock.hcl
 *.tfstate
 *.tfstate.*
 crash.log
